@@ -1,7 +1,7 @@
 package hw1;
 
 public class App {
-
+	//HW1 Was used principle L — Liskov Substitution
 	public static void main(String[] args) {
 		BoxPolymorph ib1 = new BoxPolymorph(100);
 		BoxPolymorph ib2 = new BoxPolymorph("Hello");
